@@ -1,0 +1,13 @@
+{
+  "name": "node_kube_app",
+  "version": "1.0.0",
+  "description": "Node.js on Kubernetes",
+  "author": "Prateep Gedupudi <prateep.gedupudi@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}

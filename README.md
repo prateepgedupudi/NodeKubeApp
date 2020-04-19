@@ -1,0 +1,5 @@
+I have created this example with the reference of NodeJs doc to try with kubernetes with docker in local.
+
+https://nodejs.org/fr/docs/guides/nodejs-docker-webapp/
+
+Here is docker hub image(prateepgedupudi/node-kube-app) if any one want to try kubernetes directly with out bulding an image.
